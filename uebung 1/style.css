@@ -1,0 +1,13 @@
+p{color:blueviolet}
+#Bajrami {color:crimson}
+body{
+    background-color: #FFFFFF;
+} 
+    .body-mit-bild{ 
+        background-image: url("albanische-flagge.jpg");
+        background-size: cover;
+        color: #FFFFFF;
+        
+    }
+    #instalink {font-size: 30px;
+    } 
